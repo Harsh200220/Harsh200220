@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Harsh200220
-- 👀 I’m interested in Java Developnment
+- 👋 Hi, I’m Harsh Bamnet
+- 👀 I’m interested in Java Developnment, Voice Acting, Dubbing, Voice Over
 - 🌱 I’m currently persuing Engineering in Computer Science from Jhulelal Institute Of Technology
